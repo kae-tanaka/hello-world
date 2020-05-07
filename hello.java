@@ -11,7 +11,7 @@ public class kensyu {
 		} else {
 			System.out.println("不合格");
 		}
-		System.out.println("指定された数値は『" + judgment + "』判定ですよ");
+		System.out.println("指定された数値は『" + judgment + "』判定ですよー");
 	}
 }
 
